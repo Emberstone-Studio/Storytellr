@@ -159,7 +159,7 @@ However, when you use cloud storage providers, their GDPR compliance policies ap
 If you have questions about this Privacy Policy or data practices:
 
 - **Email**: [Your contact email - to be added]
-- **GitHub Issues**: https://github.com/Qolok/Storytellr-Public/issues (for technical questions)
+- **GitHub Issues**: https://github.com/Emberstone-Studio/Storytellr/issues (for technical questions)
 
 Note: Since we do not collect data, we cannot fulfill data access or deletion requests - you control all data locally.
 

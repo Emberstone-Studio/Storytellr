@@ -31,15 +31,15 @@ Welcome to the official documentation for [Storytellr](https://storytellr.app), 
 
 ## 🐛 Support & Feedback
 
-- [Submit an Issue](https://github.com/Qolok/Storytellr-Public/issues/new) - Bug reports, feature requests, questions
-- [View Open Issues](https://github.com/Qolok/Storytellr-Public/issues)
+- [Submit an Issue](https://github.com/Emberstone-Studio/Storytellr/issues/new) - Bug reports, feature requests, questions
+- [View Open Issues](https://github.com/Emberstone-Studio/Storytellr/issues)
 
 You can also submit feedback directly from within the Storytellr app.
 
 ## 🌐 Quick Links
 
 - **App**: [storytellr.app](https://storytellr.app)
-- **GitHub**: [Qolok/Storytellr-Public](https://github.com/Qolok/Storytellr-Public)
+- **GitHub**: [Emberstone-Studio/Storytellr](https://github.com/Emberstone-Studio/Storytellr)
 
 ---
 

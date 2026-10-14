@@ -225,7 +225,7 @@ You may not assign or transfer these Terms or your rights hereunder. We may assi
 
 If you have questions about these Terms:
 - **Email**: [Your contact email - to be added]
-- **GitHub Issues**: https://github.com/Qolok/Storytellr-Public/issues (for technical questions)
+- **GitHub Issues**: https://github.com/Emberstone-Studio/Storytellr/issues (for technical questions)
 - **Documentation**: https://storytellr.app/docs
 
 ## 22. Acknowledgment

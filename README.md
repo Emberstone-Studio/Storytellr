@@ -25,14 +25,14 @@ Storytellr is a professional manuscript writing application designed specificall
 
 Found a bug? Have a feature request? Questions?
 
-**[Submit an Issue](https://github.com/Qolok/Storytellr-Public/issues/new/choose)**
+**[Submit an Issue](https://github.com/Emberstone-Studio/Storytellr/issues/new/choose)**
 
 You can also submit feedback directly from within the Storytellr app.
 
 ## 🌐 Links
 
 - **Website**: [storytellr.app](https://storytellr.app)
-- **Documentation**: [GitHub Pages](https://qolok.github.io/Storytellr-Public/)
+- **Documentation**: [GitHub Pages](https://docs.storytellr.app/)
 
 ## 📖 About Storytellr
 

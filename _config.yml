@@ -9,10 +9,10 @@ baseurl: ""
 
 # GitHub repository (for issue links, etc.)
 github:
-  repository_url: "https://github.com/Qolok/Storytellr-Public"
-  repository_name: "Storytellr-Public"
-  owner_name: "Qolok"
-  owner_url: "https://github.com/Qolok"
+  repository_url: "https://github.com/Emberstone-Studio/Storytellr"
+  repository_name: "Storytellr"
+  owner_name: "Emberstone-Studio"
+  owner_url: "https://github.com/Emberstone-Studio"
   is_project_page: true
 
 # Plugins
