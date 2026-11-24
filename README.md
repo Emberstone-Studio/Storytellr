@@ -19,8 +19,7 @@ Storytellr runs on the web or as native apps for Windows, macOS and Linux.
 ## Help and feedback
 
 - A **[User Guide](https://storytellr.app/guide)** is built into the app.
-- Found a bug or have an idea? **[Open an issue](https://github.com/Emberstone-Studio/Storytellr/issues/new/choose)**,
-  or send feedback from inside the app.
+- Found a bug or have an idea? **[Open an issue](https://github.com/Emberstone-Studio/Storytellr/issues/new/choose)**.
 
 ## Legal
 
