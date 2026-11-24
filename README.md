@@ -11,21 +11,17 @@ A manuscript editor for writers. Write in a distraction-free editor,
 keep your notes and research beside the story, and export in standard
 manuscript format.
 
-**[storytellr.app](https://storytellr.app)**
+## Usage
 
-## Download
+Storytellr runs on the web or as native apps for Windows, macOS and Linux.
 
-Storytellr runs in the browser at [storytellr.app](https://storytellr.app),
-and as a desktop app for Windows, macOS and Linux.
-
+- **[Visit Storytellr.app](https://storytellr.app)**
 - **[Download page](https://storytellr.app/download)**
 - **[All releases](https://github.com/Emberstone-Studio/Storytellr/releases)**
 
-The desktop apps update themselves.
-
 ## Help and feedback
 
-- The User Guide is built into the app: open **Help** in Storytellr.
+- A **[User Guide](https://storytellr.app/guide)** is built into the app.
 - Found a bug or have an idea? **[Open an issue](https://github.com/Emberstone-Studio/Storytellr/issues/new/choose)**,
   or send feedback from inside the app.
 
@@ -36,4 +32,4 @@ The desktop apps update themselves.
 
 ---
 
-© Emberstone Studio
+© [Emberstone Studio](https://emberstone-studio.com/)
