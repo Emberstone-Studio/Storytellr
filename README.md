@@ -1,63 +1,38 @@
-# Storytellr Documentation & Support
+<p align="center">
+  <a href="https://storytellr.app">
+    <img src=".github/storytellr-banner.png" alt="Storytellr" width="100%">
+  </a>
+</p>
 
-**Official documentation and public resources for [Storytellr](https://storytellr.app)**
+# Storytellr
 
-Storytellr is a professional manuscript writing application designed specifically for fiction writers. This repository contains documentation, legal policies, and serves as the public issue tracker.
+A manuscript editor for writers. Write in a distraction-free editor,
+keep your notes and research beside the story, and export in standard
+manuscript format.
 
-## 📚 Documentation
+**[storytellr.app](https://storytellr.app)**
 
-- **[User Guide](USER_GUIDE.md)** - Complete feature walkthrough
-- **[Features Reference](FEATURES.md)** - Comprehensive feature list
-- **[Export Guide](EXPORT_GUIDE.md)** - Manuscript formatting and export details
-- **[Cloud Storage Setup](CLOUD_STORAGE_SETUP.md)** - OAuth configuration for OneDrive, Google Drive, Dropbox, and Box
-- **[Version History](VERSION_HISTORY.md)** - Automatic version snapshots and restore
-- **[File Handle Persistence](FILE_HANDLE_PERSISTENCE.md)** - Technical details on file system integration
-- **[Speech Features](SPEECH_TROUBLESHOOTING.md)** - Read-aloud troubleshooting
-- **[Firefox Compatibility](FIREFOX_COMPATIBILITY.md)** - Known limitations and workarounds
-- **[Feedback Setup](FEEDBACK_SETUP.md)** - How to configure the feedback form
+## Download
 
-## 📋 Legal & Privacy
+Storytellr runs in the browser at [storytellr.app](https://storytellr.app),
+and as a desktop app for Windows, macOS and Linux.
 
-- **[Privacy Policy](PRIVACY_POLICY.md)** - How we handle (don't collect) your data
-- **[Terms of Service](TERMS_OF_SERVICE.md)** - Usage terms and conditions
+- **[Download page](https://storytellr.app/download)**
+- **[All releases](https://github.com/Emberstone-Studio/Storytellr/releases)**
 
-## 🐛 Issue Tracker
+The desktop apps update themselves.
 
-Found a bug? Have a feature request? Questions?
+## Help and feedback
 
-**[Submit an Issue](https://github.com/Emberstone-Studio/Storytellr/issues/new/choose)**
+- The User Guide is built into the app: open **Help** in Storytellr.
+- Found a bug or have an idea? **[Open an issue](https://github.com/Emberstone-Studio/Storytellr/issues/new/choose)**,
+  or send feedback from inside the app.
 
-You can also submit feedback directly from within the Storytellr app.
+## Legal
 
-## 🌐 Links
-
-- **Website**: [storytellr.app](https://storytellr.app)
-- **Documentation**: [GitHub Pages](https://docs.storytellr.app/)
-
-## 📖 About Storytellr
-
-Storytellr combines a distraction-free writing environment with powerful manuscript formatting tools, helping writers focus on their craft while automatically handling the technical details of manuscript submission standards.
-
-### Key Features
-
-- Distraction-free continuous editor
-- Smart bookmarks and annotations
-- Chapter/section navigation
-- Inline research notebook
-- Read aloud & voice dictation
-- Built-in dictionary & thesaurus
-- Professional manuscript formatting
-- Cloud sync (OneDrive, Google Drive, Dropbox, Box)
-- Auto-save with conflict detection
-- Version history
-- Export to PDF, DOCX, TXT
-
-## 📄 License
-
-Documentation in this repository is licensed under [Creative Commons CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
-
-The Storytellr application itself is proprietary software.
+- [Privacy Policy](https://storytellr.app/#privacy_policy)
+- [Terms of Service](https://storytellr.app/#terms_of_service)
 
 ---
 
-**Note**: This repository contains only documentation and issue tracking. The source code for Storytellr is in a private repository.
+© Emberstone Studio
