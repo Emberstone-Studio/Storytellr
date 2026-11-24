@@ -1,10 +1,11 @@
 <p align="center">
   <a href="https://storytellr.app">
-    <img src=".github/storytellr-banner.png" alt="Storytellr" width="100%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/storytellr-logo-dark.png">
+      <img src=".github/storytellr-logo-light.png" alt="Storytellr" width="480">
+    </picture>
   </a>
 </p>
-
-# Storytellr
 
 A manuscript editor for writers. Write in a distraction-free editor,
 keep your notes and research beside the story, and export in standard
