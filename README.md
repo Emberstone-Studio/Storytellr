@@ -1,7 +1,9 @@
 <p align="center">
   <a href="https://storytellr.app">
-    <img src="img/storytellr-logo-light.png#gh-light-mode-only" alt="Storytellr" width="480">
-    <img src="img/storytellr-logo-dark.png#gh-dark-mode-only" alt="Storytellr" width="480">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="img/storytellr-logo-dark.png">
+      <img src="img/storytellr-logo-light.png" alt="Storytellr" width="480">
+    </picture>
   </a>
 </p>
 
